@@ -30,6 +30,7 @@ The test performs the following steps:
 3. Submit the form.
 4. Asserts the success message.
 ## Test Report
-C:\Users\ziaur\Downloads\Screenshot_1 - Copy.png
+![Screenshot_1: Copy](https://github.com/miubat/junit-automation-main/assets/96487335/ed84dce6-598d-40b7-ab41-b5f12b2bd876)
+
 
 
