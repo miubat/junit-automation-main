@@ -1,4 +1,4 @@
-
+Junit-Automation
 ## Overview
 This JUnit WebDriver project automates the web form submission on [Digital Unite Practice Webform](https://www.digitalunite.com/practice-webform-learners). The test uploads a file with a 2MB limit, submits the form, and asserts the success message.
 ## Prerequisites
@@ -29,6 +29,6 @@ The test performs the following steps:
 4. Asserts the success message.
 
 ## Test Report
-![screencapture-file-D-test-automation-JunitAssignment-build-reports-tests-test-index-html-2024-02-28-13_59_29](https://github.com/iamsafridi/junit-digitalunit-automation/assets/82276738/0d5f1e7b-83f8-4cdf-8860-34df27c6bbe9)
+![screencapture-file-D-test-automation-JunitAssignment-build-reports-tests-test-index-html-2024-02-28-13_59_29](https://github.com/miubat/junit-automation-main/assets/308471013-0d5f1e7b-83f8-4cdf-8860-34df27c6bbe9)
 
 
