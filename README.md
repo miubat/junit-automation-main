@@ -8,7 +8,7 @@ This JUnit WebDriver project automates the web form submission on [Digital Unite
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/iamsafridi/junit-digitalunit-automation
+    git clone https://github.com/miubat/junit-automation-main
     ```
 
 2. **Set the path to your ChromeDriver executable in `FormSubmissionTest.java`.**
@@ -30,4 +30,5 @@ The test performs the following steps:
 
 ## Test Report
 ![screencapture-file-D-test-automation-JunitAssignment-build-reports-tests-test-index-html-2024-02-28-13_59_29](https://github.com/iamsafridi/junit-digitalunit-automation/assets/82276738/0d5f1e7b-83f8-4cdf-8860-34df27c6bbe9)
+
 
